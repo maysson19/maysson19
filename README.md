@@ -2,9 +2,9 @@
 
  《Mayson Said - software engineer 👩🏻‍💻》
        
-I'm a software engineer,developer
+I'm a software engineer,developer🙋🏻‍♀️
 
-☆ ☆Iam interested in 🙋🏻‍♀️: 
+Iam interested in 📌: 
 
 ● Python
 
@@ -12,5 +12,5 @@ I'm a software engineer,developer
 
 ● Cyber Security 
 
-《《《 Contact via email maysonsaidshaaban@gmail.com 
+《《《 Contact via email📩 maysonsaidshaaban@gmail.com 
 
