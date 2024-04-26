@@ -1,6 +1,6 @@
 # Hi, I'm Mayson 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Mayson Said - software engineer">
+ alt="banner that says Mayson Said - software engineer">
 I'm a software engineer,developer in Python, Backend Django and Cyber Security
 
 
