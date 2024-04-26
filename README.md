@@ -4,7 +4,7 @@
        
 I'm a software engineer,developer🙋🏻‍♀️
 
-I'm interested in 📌: 
+I'm interested and have experience in 📌: 
 
 ● Python
 
