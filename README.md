@@ -1,6 +1,6 @@
 # Hi, I'm Mayson 👋🏼 
 
- 《Mayson Said - software engineer 👩🏻‍💻》
+ 《Mayson Said - 👩🏻‍💻》
        
 I'm a
 software engineer,developer 
