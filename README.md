@@ -13,7 +13,9 @@ I'm interested and have experience in 📌:
 ● Backend Django
 
 ● Cyber Security 
+
  ○ attack api Back-end using python "trainee
+
  ○ Malware using Python "trainee
 
 《《《 Contact via email📩 maysonsaidshaaban@gmail.com 
