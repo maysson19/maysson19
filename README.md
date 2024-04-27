@@ -12,7 +12,7 @@ I'm interested and have experience in 📌:
 
 ● Backend Django
 
-● Cyber Security 
+● Cyber Security using python 
 
  ○ attack api Back-end using python "trainee
 
