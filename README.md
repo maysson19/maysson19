@@ -2,7 +2,9 @@
 
  《Mayson Said - software engineer 👩🏻‍💻》
        
-I'm a software engineer,developer🙋🏻‍♀️
+I'm a
+software engineer,developer 
+and cybersecurity 🙋🏻‍♀️
 
 I'm interested and have experience in 📌: 
 
@@ -11,6 +13,8 @@ I'm interested and have experience in 📌:
 ● Backend Django
 
 ● Cyber Security 
+ ○ attack api Back-end using python "trainee
+ ○ Malware using Python "trainee
 
 《《《 Contact via email📩 maysonsaidshaaban@gmail.com 
 
