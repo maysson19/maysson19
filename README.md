@@ -10,9 +10,9 @@ I'm interested and have experience in 📌:
 
 ● Python
 
-● Backend Django
-
 ● Cyber Security using python 
+
+● Backend Django
 
  ○ attack api Back-end using python "trainee
 
