@@ -2,9 +2,8 @@
 
  《Mayson Said - 👩🏻‍💻》
        
-I'm a
-software engineer,developer 
-and cybersecurity 🙋🏻‍♀️
+I'm a 
+developer and cybersecurity 🙋🏻‍♀️
 
 I'm interested and have experience in 📌: 
 
