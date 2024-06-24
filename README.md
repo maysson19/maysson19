@@ -8,12 +8,9 @@ and cybersecurity 🙋🏻‍♀️
 
 I'm interested and have experience in 📌: 
 
-● Python
+● developer Python
 
-● Cyber Security using python 
-
-
- ○ Malware using Python "trainee
+● < OffensiveSecurity >
 
 《《《 Contact via email📩 maysonsaidshaaban@gmail.com 
 
