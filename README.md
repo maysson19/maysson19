@@ -5,14 +5,11 @@
 
 I'm interested and have experience in 📌: 
 
-● cyber security < OffensiveSecurity >
+● Python 
 
-● scripts and tools with write it using python.
+● Database
 
-● Python Developer.
-
-● Back-End Django, database.
-
+● OffensiveSecurity 
 
 《《《 Contact via email📩 maysonsaidshaaban@gmail.com 
 
