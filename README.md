@@ -9,7 +9,7 @@ I'm interested and have experience in 📌:
 
 ● Database
 
-● OffensiveSecurity 
+● Offensive Security 
 
 《《《 Contact via email📩 maysonsaidshaaban@gmail.com 
 
