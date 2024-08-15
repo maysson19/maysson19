@@ -2,14 +2,11 @@
 
  《Mayson Said - 👩🏻‍💻》
  
-
-I'm interested and have experience in 📌: 
-
-● Python 
+● Java 
 
 ● Database
 
-● Offensive Security 
+● Cyber Security 
 
 《《《 Contact via email📩 maysonsaidshaaban@gmail.com 
 
