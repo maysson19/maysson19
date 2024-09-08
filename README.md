@@ -6,7 +6,7 @@
 
 ● Database
 
-● Cyber Security 
+● trainee offensive security
 
 《《《 Contact via email📩 maysonsaidshaaban@gmail.com 
 
