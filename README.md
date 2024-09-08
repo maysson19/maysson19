@@ -8,9 +8,9 @@
 
 ● Python
 
-● Offensive Security "trainee"
-
 ● Soft Network
+
+● Offensive Security "trainee"
 
 《《《 Contact via email📩 maysonsaidshaaban@gmail.com 
 
