@@ -3,10 +3,10 @@
  《Mayson Said - 👩🏻‍💻》
  
 ● Java 
-
 ● Database
-
-● trainee offensive security
+● Python
+● Offensive Security "trainee"
+● Soft Network
 
 《《《 Contact via email📩 maysonsaidshaaban@gmail.com 
 
