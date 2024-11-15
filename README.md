@@ -4,9 +4,17 @@
  
 ● Java 
 
-● Database
+● Spring
 
 ● Python
+
+● Database
+
+● OOP
+
+● ERD
+
+● Algorithms
 
 ● Soft Network
 
