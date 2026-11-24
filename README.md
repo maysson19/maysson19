@@ -18,7 +18,7 @@ I enjoy developing scalable backend solutions, building responsive frontend appl
 
 ### 🛠️ Technical Skills
 
-- **Languages:** Java, JavaScript, TypeScript, Python
+- **Languages:** Java, JavaScript, TypeScript
 - **Backend:** Java Core, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring Batch
 - **Frontend:** Angular, HTML5, CSS3, JSF
 - **Databases:** MySQL, PostgreSQL, SQL
@@ -32,7 +32,6 @@ I enjoy developing scalable backend solutions, building responsive frontend appl
 - Full Stack Development
 - Software Architecture
 - Artificial Intelligence
-- Cybersecurity & Offensive Security
 
 ### 📫 Let's Connect
 
