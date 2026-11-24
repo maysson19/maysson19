@@ -26,12 +26,6 @@ I enjoy developing scalable backend solutions, building responsive frontend appl
 - **Tools:** Git, GitHub, GitLab, Maven, IntelliJ IDEA, VS Code, JasperReports Studio, DBeaver
 - **Concepts:** OOP, Data Structures, Algorithms, Design Patterns, Clean Code, ERD
 
-### 🚀 Areas of Interest
-
-- Backend Engineering
-- Full Stack Development
-- Software Architecture
-- Artificial Intelligence
 
 ### 📫 Let's Connect
 
