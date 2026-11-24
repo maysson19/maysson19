@@ -37,8 +37,7 @@ I enjoy turning technical challenges into reliable software solutions and contin
 ### 📫 Let's Connect
 
 - **Email:** maysonsaidshaaban@gmail.com
-- **LinkedIn:** [Mayson Said](https://www.linkedin.com/in/mayson-said-shabaan-68189b253)
-- **GitHub:** [maysson19](https://github.com/maysson19)
+- **LinkedIn:** [Mayson Said](https://www.linkedin.com/in/mayson-said-shaaban-68189b253/)
 - **Portfolio:** [My Portfolio](https://mayson-portfolio.onrender.com)
 
 ---
